@@ -17,6 +17,17 @@
     --slidev-theme-primary: var(--geist-foreground);
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container h1 {
+    font-size: 64px;
+}
+
 #slide-content {
     color: var(--geist-foreground);
     background-color: var(--geist-background);
@@ -61,7 +72,7 @@ html.dark {
 }
 
 h1 {
-    color: var(--geist-foreground);
+    color: #a981ff;
     font-weight: 800;
     margin: 3rem 0 1rem;
     @apply text-4xl;
@@ -92,7 +103,7 @@ strong {
     color: var(--accents-7);
 }
 a {
-    color: var(--geist-success);
+    color: #2fb86f;
 }
 
 * {
