@@ -627,18 +627,18 @@ How can I help the Puzzle become even more amazing?
 
 <div class="container mt-40">
 
-# End, I hope you enjoyed
+# End, hope you enjoyed!
 
 <div class="gap-2 mt-6">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/JoaoGomes5" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     JoaoGomes5 <carbon-logo-github />
   </a>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://twitter.com/joaogomesdev" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     joaogomesdev <carbon-logo-twitter />
   </a>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://www.linkedin.com/in/joaogomesdev/" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     joaogomesdev <carbon-logo-linkedin />
   </a>
