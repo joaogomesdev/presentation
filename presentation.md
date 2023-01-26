@@ -68,7 +68,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="opacity-50">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD>
@@ -112,7 +112,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="opacity-50">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD>
@@ -156,7 +156,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="opacity-50">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD>
@@ -200,7 +200,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="opacity-50">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD>
@@ -244,7 +244,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="opacity-50">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD> 
@@ -288,7 +288,7 @@ Lets share knowledge to create a better world 🌍
 
 <div class="">
 
-👉 **Blip internship? 🤔**
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
 
 </div>
 <KBD space>space</KBD>
@@ -323,9 +323,9 @@ Here are my hobbies and the things that make me get out of bed every day
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="">
 
@@ -374,9 +374,9 @@ How can I help the Puzzle become even more amazing?
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="opacity-50">
 
@@ -425,9 +425,9 @@ How can I help the Puzzle become even more amazing?
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="opacity-50">
 
@@ -476,9 +476,9 @@ How can I help the Puzzle become even more amazing?
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="opacity-50">
 
@@ -527,9 +527,9 @@ How can I help the Puzzle become even more amazing?
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="opacity-50">
 
@@ -578,9 +578,9 @@ How can I help the Puzzle become even more amazing?
 
 <div>
   
-  # Missing peace
+  # Peaks
 
-How can I help the Puzzle become even more amazing?
+How i can contribute?
 
   <div class="opacity-50">
 
@@ -630,9 +630,9 @@ How can I help the Puzzle become even more amazing?
 # End, hope you enjoyed!
 
 <div class="gap-2 mt-6">
-  <a href="https://github.com/JoaoGomes5" target="_blank" alt="GitHub"
+  <a href="https://github.com/joaogomesdev" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    JoaoGomes5 <carbon-logo-github />
+    joaogomesdev <carbon-logo-github />
   </a>
   <a href="https://twitter.com/joaogomesdev" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
