@@ -364,8 +364,6 @@ How i can contribute?
   </div>
   </div>
 
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
-
 </div>
 
 ---
@@ -414,8 +412,6 @@ How i can contribute?
 
   </div>
   </div>
-
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
 
 </div>
 
@@ -466,8 +462,6 @@ How i can contribute?
   </div>
   </div>
 
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
-
 </div>
 
 ---
@@ -516,8 +510,6 @@ How i can contribute?
 
   </div>
   </div>
-
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
 
 </div>
 
@@ -568,8 +560,6 @@ How i can contribute?
   </div>
   </div>
 
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
-
 </div>
 
 ---
@@ -618,8 +608,6 @@ How i can contribute?
 
   </div>
   </div>
-
-<img border="rounded" src="https://i.imgur.com/IqR74tg.png" width="300" height="300" class="mt-20 ml-10">
 
 </div>
 
