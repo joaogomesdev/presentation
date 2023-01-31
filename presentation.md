@@ -323,7 +323,7 @@ Here are my hobbies and the things that make me get out of bed every day
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
@@ -374,7 +374,7 @@ How i can contribute?
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
@@ -425,7 +425,7 @@ How i can contribute?
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
@@ -476,7 +476,7 @@ How i can contribute?
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
@@ -527,7 +527,7 @@ How i can contribute?
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
@@ -578,7 +578,7 @@ How i can contribute?
 
 <div>
   
-  # Peaks
+  # Skills
 
 How i can contribute?
 
