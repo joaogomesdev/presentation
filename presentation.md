@@ -6,7 +6,7 @@ layout: center
 
 <div class="container">
 
-# Hi there 🖐️
+# Hi everyone 🖐️
 
 </div>
 
@@ -20,14 +20,12 @@ layout: center
 
   Enthusiastic about web / mobile development 👨‍💻
 
-  Lets share knowledge to create a better world 🌍
-
   👉 **21 years old**
 
   👉 **Live in Espinho**
 
   </div>
-  <img border="rounded" src="https://i.imgur.com/NG44od6.jpg" width="300" height="300" class="ml-10 mt-12">
+  <img border="rounded" src="https://i.imgur.com/NG44od6.jpg&w=384&q=75" width="300" height="300" class="ml-10 mt-12">
 </div>
 
 ---
@@ -68,7 +66,7 @@ layout: center
 
   <div class="">
 
-  👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Feb 2022
+  👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Feb 2023
 
   </div>
     
@@ -85,72 +83,24 @@ layout: center
 
 <div grid="~ cols-2 gap-2" m="-t-2">
 
-  <div class="">
+<div class="">
 
-  # General interests
+# General interests
 
-  Here are my hobbies and the things that make me get out of bed every day
+Here are my hobbies and the things that make me get out of bed every day
 
-  -   🏑 **Sports**
-  -   🎸 **Rock music**
-  -   🎥 **Cinema**
-  -   🍺 **Beer with friends**
-  -   🧑‍💻 **Built side projects to learn new things**
-  -   📕 **Share knowledge (cultural / professional)**
-  -   🫂 **Community spirit , help and make the difference**
+-   🏑 **Sports**
+-   🎸 **Rock music**
+-   🎥 **Cinema**
+-   🍺 **Beer with friends - potential friends too 😉**
+-   🧑‍💻 **Built side projects to learn new things**
+-   📕 **Share knowledge (cultural / professional)**
+-   🫂 **Community spirit , help and make the difference**
 
-  </div>
-
-  <img border="rounded" src="https://i.imgur.com/IR8WBXZ.png" class="mr-12 ml-10 mt-10" width="350">
+<KBD space>space</KBD>
 </div>
 
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
-  <div class="">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="">
-
-👉 **Fresh and open mind**
-
-  </div>
-
-  <div class="">
-
-👉 **Engage with the group**
-
-  </div>
-
-  <div class="">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="">
-
-👉 **I truly love what I do!**
-
-  </div>
-</div>
-
+<img border="rounded" src="https://i.imgur.com/IR8WBXZ.png" class="mr-12 ml-10 mt-10" width="350">
 </div>
 
 ---
@@ -161,20 +111,24 @@ How i can contribute?
 
 <div class="gap-2 mt-6">
   <a href="https://joaogomesdev.vercel.app" target="_blank" alt="GitHub"
-    class="text-xl icon-btn  !border-none !hover:text-white">
+    class="text-xl icon-btn  !border-none !hover:text-white" style="color: white;">
     joaogomesdev.vercel.app 👨🏻‍💻
   </a>
+  <div class="gap-2 mt-6 ml-18">
+ 
   <a href="https://github.com/joaogomesdev" target="_blank" alt="GitHub"
-    class="text-xl icon-btn  !border-none !hover:text-white">
-    joaogomesdev <carbon-logo-github />
+    class="text-lg icon-btn  !border-none !hover:text-white">
+    <carbon-logo-github />
   </a>
   <a href="https://twitter.com/joaogomesdev" target="_blank" alt="GitHub"
-    class="text-xl icon-btn  !border-none !hover:text-white">
+    class="text-lg  icon-btn !border-none !hover:text-white">
    <carbon-logo-twitter />
   </a>
   <a href="https://www.linkedin.com/in/joaogomesdev/" target="_blank" alt="GitHub"
-    class="text-xl icon-btn !border-none !hover:text-white">
+    class="text-lg icon-btn !border-none !hover:text-white">
     <carbon-logo-linkedin />
   </a>
+
+   </div>
 </div>
 </div>
