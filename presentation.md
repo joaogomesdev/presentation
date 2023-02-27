@@ -14,20 +14,20 @@ layout: center
 
 <div grid="~ cols-2 gap-2" m="-t-2">
 
-<div class="ml-10">
+  <div class="ml-10">
 
-# About me
+  # About me
 
-Enthusiastic about web / mobile development 👨‍💻
+  Enthusiastic about web / mobile development 👨‍💻
 
-Lets share knowledge to create a better world 🌍
+  Lets share knowledge to create a better world 🌍
 
-👉 **21 years old**
+  👉 **21 years old**
 
-👉 **Live in Espinho**
+  👉 **Live in Espinho**
 
-</div>
-<img border="rounded" src="https://i.imgur.com/NG44od6.jpg" width="300" height="300" class="ml-10 mt-12">
+  </div>
+  <img border="rounded" src="https://i.imgur.com/NG44od6.jpg" width="300" height="300" class="ml-10 mt-12">
 </div>
 
 ---
@@ -36,72 +36,72 @@ Lets share knowledge to create a better world 🌍
 
 # Academic / Professional path
 
-<div class="">
+  <div class="">
 
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
+  👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
 
-</div>
+  </div>
 
-<div class="">
+  <div class="">
 
-👉 **Sorema Internship** - High School - 2018 / 2019
+  👉 **Sorema Internship** - High School - 2018 / 2019
 
-</div>
+  </div>
 
-<div class="">
+  <div class="">
 
-👉 **WeCreateYou** - High School - 2019 / 2020
+  👉 **WeCreateYou** - High School - 2019 / 2020
 
-</div>
+  </div>
 
-<div class="">
+  <div class="">
 
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
+  👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
 
-</div>
+  </div>
 
-<div class="">
+  <div class="">
 
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
+  👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
 
-</div>
+  </div>
 
-<div class="">
+  <div class="">
 
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Feb 2022
+  👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Feb 2022
 
-</div>
+  </div>
+    
+  <div class="">
+
+  👉 **Significa** - Front-end Developer - Current 🥚
+
+  </div>
   
-<div class="">
-
-👉 **Significa** - Front-end Developer - Current 🥚
-
-</div>
-  
-<KBD space>space</KBD>
+  <KBD space>space</KBD>
 </div>
 
 ---
 
 <div grid="~ cols-2 gap-2" m="-t-2">
 
-<div class="">
+  <div class="">
 
-# General interests
+  # General interests
 
-Here are my hobbies and the things that make me get out of bed every day
+  Here are my hobbies and the things that make me get out of bed every day
 
--   🏑 **Sports**
--   🎸 **Rock music**
--   🎥 **Cinema**
--   🍺 **Beer with friends**
--   🧑‍💻 **Built side projects to learn new things**
--   📕 **Share knowledge (cultural / professional)**
--   🫂 **Community spirit , help and make the difference**
+  -   🏑 **Sports**
+  -   🎸 **Rock music**
+  -   🎥 **Cinema**
+  -   🍺 **Beer with friends**
+  -   🧑‍💻 **Built side projects to learn new things**
+  -   📕 **Share knowledge (cultural / professional)**
+  -   🫂 **Community spirit , help and make the difference**
 
-</div>
+  </div>
 
-<img border="rounded" src="https://i.imgur.com/IR8WBXZ.png" class="mr-12 ml-10 mt-10" width="350">
+  <img border="rounded" src="https://i.imgur.com/IR8WBXZ.png" class="mr-12 ml-10 mt-10" width="350">
 </div>
 
 ---
@@ -149,7 +149,7 @@ How i can contribute?
 👉 **I truly love what I do!**
 
   </div>
-  </div>
+</div>
 
 </div>
 
@@ -164,7 +164,6 @@ How i can contribute?
     class="text-xl icon-btn  !border-none !hover:text-white">
     joaogomesdev.vercel.app 👨🏻‍💻
   </a>
-<div class="gap-2 mt-6">
   <a href="https://github.com/joaogomesdev" target="_blank" alt="GitHub"
     class="text-xl icon-btn  !border-none !hover:text-white">
     joaogomesdev <carbon-logo-github />
