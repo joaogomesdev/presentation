@@ -92,6 +92,7 @@ Here are my hobbies and the things that make me get out of bed every day
 -   🏑 **Sports**
 -   🎸 **Rock music**
 -   🎥 **Cinema**
+-   🎮 **Video Games**
 -   🍺 **Beer with friends - potential friends too 😉**
 -   🧑‍💻 **Built side projects to learn new things**
 -   📕 **Share knowledge (cultural / professional)**
