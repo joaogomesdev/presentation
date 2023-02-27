@@ -22,7 +22,7 @@ Enthusiastic about web / mobile development 👨‍💻
 
 Lets share knowledge to create a better world 🌍
 
-👉 **20 years old**
+👉 **21 years old**
 
 👉 **Live in Espinho**
 
