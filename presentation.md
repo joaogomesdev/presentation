@@ -42,95 +42,7 @@ Lets share knowledge to create a better world 🌍
 
 </div>
 
-<div class="opacity-50">
-
-👉 **Sorema Internship** - High School - 2018 / 2019
-
-</div>
-
-<div class="opacity-50">
-
-👉 **WeCreateYou** - High School - 2019 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
-
-</div>
-<KBD space>space</KBD>
-</div>
-
----
-
-<div class="ml-10">
-
-# Academic / Professional path
-
-<div class="opacity-50">
-
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
-
-</div>
-
 <div class="">
-
-👉 **Sorema Internship** - High School - 2018 / 2019
-
-</div>
-
-<div class="opacity-50">
-
-👉 **WeCreateYou** - High School - 2019 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
-
-</div>
-<KBD space>space</KBD>
-</div>
-
----
-
-<div class="ml-10">
-
-# Academic / Professional path
-
-<div class="opacity-50">
-
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
-
-</div>
-
-<div class="opacity-50">
 
 👉 **Sorema Internship** - High School - 2018 / 2019
 
@@ -142,95 +54,7 @@ Lets share knowledge to create a better world 🌍
 
 </div>
 
-<div class="opacity-50">
-
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
-
-</div>
-<KBD space>space</KBD>
-</div>
-
----
-
-<div class="ml-10">
-
-# Academic / Professional path
-
-<div class="opacity-50">
-
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Sorema Internship** - High School - 2018 / 2019
-
-</div>
-
-<div class="opacity-50">
-
-👉 **WeCreateYou** - High School - 2019 / 2020
-
-</div>
-
 <div class="">
-
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
-
-</div>
-<KBD space>space</KBD>
-</div>
-
----
-
-<div class="ml-10">
-
-# Academic / Professional path
-
-<div class="opacity-50">
-
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Sorema Internship** - High School - 2018 / 2019
-
-</div>
-
-<div class="opacity-50">
-
-👉 **WeCreateYou** - High School - 2019 / 2020
-
-</div>
-
-<div class="opacity-50">
 
 👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
 
@@ -242,55 +66,18 @@ Lets share knowledge to create a better world 🌍
 
 </div>
 
-<div class="opacity-50">
-
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
-
-</div>
-<KBD space>space</KBD> 
-</div>
-
----
-
-<div class="ml-10">
-
-# Academic / Professional path
-
-<div class="opacity-50">
-
-👉 **Management and Programming of Informatics Systems course** - High School - 2017 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Sorema Internship** - High School - 2018 / 2019
-
-</div>
-
-<div class="opacity-50">
-
-👉 **WeCreateYou** - High School - 2019 / 2020
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Agile Software Development** - CTESP ISEP - 2020 - 2022
-
-</div>
-
-<div class="opacity-50">
-
-👉 **Unizon Internship** - CTESP ISEP and IEFP Professional Internship - March 2020 - December 2022
-
-</div>
-
 <div class="">
 
-👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Current
+👉 **Nonius Software** - Fullstack Developer - Sep 2022 / Feb 2022
 
 </div>
+  
+<div class="">
+
+👉 **Significa** - Front-end Developer - Current 🥚
+
+</div>
+  
 <KBD space>space</KBD>
 </div>
 
@@ -333,105 +120,7 @@ How i can contribute?
 
   </div>
 
-  <div class="opacity-50">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Fresh and open mind**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Engage with the group**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **I truly love what I do!**
-
-  </div>
-  </div>
-
-</div>
-
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="opacity-50">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
   <div class="">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Fresh and open mind**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Engage with the group**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **I truly love what I do!**
-
-  </div>
-  </div>
-
-</div>
-
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="opacity-50">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
-  <div class="opacity-50">
 
 👉 **Community improvement Spirit**
 
@@ -443,160 +132,13 @@ How i can contribute?
 
   </div>
 
-  <div class="opacity-50">
-
-👉 **Engage with the group**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **I truly love what I do!**
-
-  </div>
-  </div>
-
-</div>
-
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="opacity-50">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Fresh and open mind**
-
-  </div>
-
   <div class="">
 
 👉 **Engage with the group**
 
   </div>
 
-  <div class="opacity-50">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **I truly love what I do!**
-
-  </div>
-  </div>
-
-</div>
-
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="opacity-50">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Fresh and open mind**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Engage with the group**
-
-  </div>
-
   <div class="">
-
-👉 **Share knowledge to build a better world**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **I truly love what I do!**
-
-  </div>
-  </div>
-
-</div>
-
----
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-<div>
-  
-  # Skills
-
-How i can contribute?
-
-  <div class="opacity-50">
-
-👉 **Enthusiast and self-taught**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Community improvement Spirit**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Fresh and open mind**
-
-  </div>
-
-  <div class="opacity-50">
-
-👉 **Engage with the group**
-
-  </div>
-
-  <div class="opacity-50">
 
 👉 **Share knowledge to build a better world**
 
@@ -618,17 +160,22 @@ How i can contribute?
 # End, hope you enjoyed!
 
 <div class="gap-2 mt-6">
+  <a href="https://joaogomesdev.vercel.app" target="_blank" alt="GitHub"
+    class="text-xl icon-btn  !border-none !hover:text-white">
+    joaogomesdev.vercel.app 👨🏻‍💻
+  </a>
+<div class="gap-2 mt-6">
   <a href="https://github.com/joaogomesdev" target="_blank" alt="GitHub"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    class="text-xl icon-btn  !border-none !hover:text-white">
     joaogomesdev <carbon-logo-github />
   </a>
   <a href="https://twitter.com/joaogomesdev" target="_blank" alt="GitHub"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    joaogomesdev <carbon-logo-twitter />
+    class="text-xl icon-btn  !border-none !hover:text-white">
+   <carbon-logo-twitter />
   </a>
   <a href="https://www.linkedin.com/in/joaogomesdev/" target="_blank" alt="GitHub"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    joaogomesdev <carbon-logo-linkedin />
+    class="text-xl icon-btn !border-none !hover:text-white">
+    <carbon-logo-linkedin />
   </a>
 </div>
 </div>
